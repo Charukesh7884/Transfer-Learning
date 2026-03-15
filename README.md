@@ -98,6 +98,7 @@ def train_model(model, train_loader,test_loader,num_epochs=10):
 
 ## OUTPUT
 ### Training Loss, Validation Loss Vs Iteration Plot
+![alt text](<Screenshot 2026-03-15 194517.png>)
 
 ### Confusion Matrix
 Include confusion matrix here
